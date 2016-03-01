@@ -14,13 +14,11 @@
 	  	<ol>
 			<li>Alexandre</li>
 			<li>Demerson</li>
-			<li>Taila</li>
+			 <li>Taila</li>
 	    
         </ol>
-              
-       
-  		
-  		  <li>Alunos da tarde</li>
+  	<ul type=square>	
+  	     <li>Alunos da tarde</li>
         <ol>	
          <li>Adulton</li>
          <li>Almir</li>
