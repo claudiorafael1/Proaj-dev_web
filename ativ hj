@@ -1,0 +1,23 @@
+<!Doctype html>
+<meta charset="UTF-8"/>
+<html>
+<head>
+
+</head>
+<body>
+<ul type=square>
+<li style ="color:red">Vermelho!</li>
+<br>
+<li style=" color:Blue">Azul!</li>
+<br>
+<li style="color:Black">Preto</li>
+<p style="font-family:courier;">This is a paragraph.</p>	
+<p style="font-family:verdana;">This is a heading</p>
+<p style="font-family:Arial black">this font is Arail</p>
+
+</body>
+
+
+
+
+</html>
