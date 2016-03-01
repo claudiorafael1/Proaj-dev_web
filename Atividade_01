@@ -1,14 +1,10 @@
 <!Doctype html>
 <meta charset="UTF-8"/>
- <html>
-  <head>
-
+  <html>
+    <head>
 	 <title>Atividade exercicio01</title>
-
-	 
 	 </head>
-
-	<body>
+	 <body>
 	<ul type=Disc>
    		<li>Alunos da manhã</li>
 	  	<ol>
@@ -23,7 +19,7 @@
          <li>Adulton</li>
          <li>Almir</li>
          <li>Diogo</li>	
-    </ol>	
-    </ul>    
-</body>
+         </ol>	
+       </ul>    
+    </body>
 </html>
