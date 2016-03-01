@@ -1,0 +1,31 @@
+<!Doctype html>
+<meta charset="UTF-8"/>
+ <html>
+  <head>
+
+	 <title>Atividade exercicio01</title>
+
+	 
+	 </head>
+
+	<body>
+	<ul type=Disc>
+   		<li>Alunos da manhã</li>
+	  	<ol>
+			<li>Alexandre</li>
+			<li>Demerson</li>
+			<li>Taila</li>
+	    
+        </ol>
+              
+       
+  		
+  		  <li>Alunos da tarde</li>
+        <ol>	
+         <li>Adulton</li>
+         <li>Almir</li>
+         <li>Diogo</li>	
+    </ol>	
+    </ul>    
+</body>
+</html>
